@@ -1,0 +1,2 @@
+This is my new text file. 
+I'll just show how git works.
